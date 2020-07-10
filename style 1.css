@@ -1,0 +1,22 @@
+body{
+
+}
+.header{
+  padding: 10px;
+  margin:0;
+  padding:0;
+}
+.Fan-1-img{
+  height: 11%;
+  width:11%;
+  float:left;
+}
+.item-2{
+  margin-top: 100px;
+}
+.description{
+  text-align: center;
+}
+.heading{
+  color: blue;
+}
