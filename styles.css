@@ -57,7 +57,9 @@ th{
   text-align: center;
 
 }
-
+.message1{
+  margin-top: 10px;
+}
 .top-container {
   background-color: #E4F9F5;
   position: relative;
