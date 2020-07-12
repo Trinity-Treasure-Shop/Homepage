@@ -77,6 +77,8 @@ th{
 
 .pro {
   text-decoration: underline;
+  font-weight: 900;
+  color: black;
 }
 
 .bottom-cloud {
