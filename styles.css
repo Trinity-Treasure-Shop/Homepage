@@ -128,15 +128,19 @@ margin-bottom:33.33%;
 }
 .C2{
   padding-left: 200px;
+  padding-top: 175px;
 }
 .C3{
   padding-left: 200px;
+  padding-top: 175px;
 }
 .C4{
   padding-left: 200px;
+  padding-top: 175px;
 }
 .C5{
   padding-left: 200px;
+  padding-top: 175px;
 }
 .bio {
   font-family: 'Montserrat', sans-serif;
@@ -154,7 +158,9 @@ margin-bottom:33.33%;
   margin: 100px auto 100px auto;
   text-align: left;
 }
-
+.link{
+  text-align: center;
+}
 .description {
   color: #40514e;
   text-align: center;
