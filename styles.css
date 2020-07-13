@@ -120,7 +120,9 @@ margin-bottom:33.33%;
 .catagories-table{
   border: 10px black;
 }
-
+.fan-img{
+  padding-top: 10px;
+}
 .C1{
   padding-left: 200px;
   padding-top: 125px;
