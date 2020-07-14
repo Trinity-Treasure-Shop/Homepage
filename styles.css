@@ -47,6 +47,7 @@ a{
 }
 a:hover{
   color:blue;
+  text-decoration: underline;
 }
 th{
   text-align: center;
