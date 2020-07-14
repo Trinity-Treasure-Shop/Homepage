@@ -55,7 +55,7 @@ th{
 
 }
 .family-img{
-  width: 450px;
+  width: 700px;
   margin:0;
 }
 .message1{
@@ -130,6 +130,9 @@ margin-bottom:33.33%;
   width:100px;
 
 }
+.message{
+  color: red;
+}
 .pic2{
   width:100px;
 }
@@ -138,15 +141,19 @@ margin-bottom:33.33%;
 }
 
 .C1{
-  padding-left: 200px;
-  padding-top: 125px;
+  padding-left: 100px;
+  padding-top: -100px;
 }
 .bio {
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
+  margin-top:-10px;
 }
-
+.text{
+  color: rgb(255	113	97);
+  font-size: 100px;
+}
 .footer-link {
   color: #11999E;
 }
@@ -169,6 +176,7 @@ margin-bottom:33.33%;
 }
 .message1{
 font-family: 'Montserrat', sans-serif;
+color:blue;
 }
 
 .btn {
