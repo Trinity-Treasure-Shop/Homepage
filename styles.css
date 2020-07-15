@@ -124,6 +124,10 @@ margin-bottom:33.33%;
   padding-top: 10px;
 
 }
+.care1{
+  margin-top: -75px;
+
+}
 .pic1{
   width:100px;
 
@@ -131,6 +135,7 @@ margin-bottom:33.33%;
 .message{
   color: red;
   font-family: 'Montserrat', sans-serif;
+
 }
 .pic2{
   width:100px;
@@ -155,6 +160,7 @@ margin-bottom:33.33%;
 }
 .footer-link {
   color: #11999E;
+  font-size: 1.5rem;
 }
 
 .skill-row {
@@ -177,7 +183,14 @@ margin-bottom:33.33%;
 font-family: 'Montserrat', sans-serif;
 color:blue;
 margin-top: 10px;
+font-size: 1.5rem;
 
+}
+.message2{
+
+font-family: 'Montserrat', sans-serif;
+color:blue;
+margin-top: 10px;
 }
 
 .btn {

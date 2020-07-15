@@ -1,5 +1,6 @@
-body{
-
+li{
+	padding-left: 10px;
+	font-family: 'Montserrat', sans-serif;
 }
 .myButton {
 	box-shadow: 3px 4px 0px 0px #8a2a21;
@@ -29,17 +30,23 @@ body{
   margin:0;
   padding:0;
 }
-.Fan-1-img{
+.Fan-img{
   height: 11%;
   width:11%;
   float:left;
 }
 .item-2{
   margin-top: 100px;
+	font-family: 'Montserrat', sans-serif;
 }
 .description{
   text-align: center;
+	font-family: 'Montserrat', sans-serif;
 }
 .heading{
-  color: blue;
+  color: red;
+}
+.heading1{
+	padding-left: 5px;
+	color:blue;
 }
