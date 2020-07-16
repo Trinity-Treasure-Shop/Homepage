@@ -132,6 +132,11 @@ margin-bottom:33.33%;
   width:100px;
 
 }
+.pic1:hover{
+  transition: transform .5s ease;
+  transform: scale(1.5);
+}
+
 .message{
   color: red;
   font-family: 'Montserrat', sans-serif;
@@ -191,6 +196,21 @@ font-size: 1.5rem;
 font-family: 'Montserrat', sans-serif;
 color:blue;
 margin-top: 10px;
+}
+/* [1] The container */
+.img-hover-zoom {
+  height: 300px; /* [1.1] Set it as per your need */
+  overflow: hidden; /* [1.2] Hide the overflowing of child elements */
+}
+
+/* [2] Transition property for smooth transformation of images */
+.img-hover-zoom img {
+  transition: transform .5s ease;
+}
+
+/* [3] Finally, transforming the image when container gets hovered */
+.img-hover-zoom:hover img {
+
 }
 
 .btn {
