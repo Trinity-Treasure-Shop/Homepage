@@ -4,6 +4,9 @@
   border: 2px solid #E74C3C;
   padding: 2rem;
 }
+h1{
+text-align:center
+}
 body{
   font-family: 'Montserrat', sans-serif;
 }
